@@ -12,7 +12,8 @@
 		"CVS",
 		".meteor",
 		".cordova-build",
-		"node_modules"
+		"node_modules",
+		".build*"
 	],
 	"font_size": 12,
 	"highlight_modified_tabs": true,
