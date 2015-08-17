@@ -1,0 +1,29 @@
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": "true",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": "true",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".meteor",
+		".cordova-build",
+		"node_modules"
+	],
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme"
+}
